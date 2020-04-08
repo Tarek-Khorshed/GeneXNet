@@ -1,6 +1,6 @@
 # GeneXNet: Gene eXpression Network
 
-## Deep Learning for Multi-Tissue Cancer Classification of Gene Expressions**
+## Deep Learning for Multi-Tissue Cancer Classification of Gene Expressions
 
 GeneXNet is a python package for Multi-Tissue Cancer Classification of Gene Expressions using Deep Learning
 
