@@ -1,11 +1,11 @@
 """
 ******************************************************************************
-*** Module: GeneXNet (Gene eXpression Network) ***
+*** Package: GeneXNet (Gene eXpression Network) ***
+*** Module: Models ***
 
 *** MODEL BUILDING ***
 
 Deep Learning for Multi-Tissue Classification of Gene Expressions (GeneXNet)
-
 Author: Tarek_Khorshed 
 Email: Tarek_Khorshed@aucegypt.edu
 Version: 1.0
