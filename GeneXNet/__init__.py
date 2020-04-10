@@ -11,7 +11,7 @@ Version: 1.0
 *** COPYRIGHT ***
 
 All contributions by Tarek Khorshed
-Copyright (c) 2020, Tarek Khorshed (Tarek_Khorshed@aucegypt.edu)
+Copyright (c) 2019-2020, Tarek Khorshed (Tarek_Khorshed@aucegypt.edu)
 All rights reserved
 
 *** LICENSE ***
