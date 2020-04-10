@@ -18,7 +18,6 @@ Copyright (c) 2019-2020, Tarek Khorshed (Tarek_Khorshed@aucegypt.edu)
 All rights reserved
 
 *** LICENSE ***
-
 GNU General Public License v3.0
 https://github.com/Tarek-Khorshed/GeneXNet/blob/master/LICENSE
 Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, 
